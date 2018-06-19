@@ -1,0 +1,36 @@
+# site settings
+title: Seasons of Code
+subtitle: WnCC
+email: abeen9@gmail.com
+description: 
+baseurl: "/soc" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address:
+city: 
+state:
+zip_code:
+country: 
+phone: (716) 555-5555
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 100
+
+# social settings
+500px_url:
+facebook_url: https://facebook.com/thenotsodarkknight
+github_url:
+gitlab_url: https://gitlab.com/u/andrewbanchich
+googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: https://instagram.com
+linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/andrewbanchich
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
